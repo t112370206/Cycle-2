@@ -1,3 +1,0 @@
-Analysis,Variable,Benchmark,Sample Size,Estimate,95% CI Lower,95% CI Upper,Test Statistic,p-value,Decision (alpha=0.05)
-Population Proportion,CurrentCigaretteUse,0.2,13323,0.1943256023418149,0.18760679992328702,0.20104440476034277,-1.637422637406872,0.10154219139871867,Fail to reject H0
-Population Mean,HowTallAreYouWithoutShoesInMeters,1.7,13062,1.6940376665135508,1.692297447639249,1.6957778853878527,-6.715845982336794,1.947175753969077e-11,Reject H0
