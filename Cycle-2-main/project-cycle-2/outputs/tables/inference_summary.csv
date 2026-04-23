@@ -1,0 +1,3 @@
+Analysis,Sample Size,Estimate,p-value,Decision (alpha=0.05)
+Proportion,13323,0.1943256023418149,0.10154219139871867,Fail to reject H0
+Mean,13062,1.6940376665135508,1.947175753969077e-11,Reject H0

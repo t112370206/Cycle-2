@@ -1,0 +1,7 @@
+Project Cycle 2 Final Data Summary (Strict 4 Visuals)
+==================================================
+Smoking Rate: 19.43%
+Mean Height: 1.6940 m
+P-val (Prop): 0.1015 / P-val (Mean): 0.0000
+
+Key Discovery: Step-wise increase in smoking for taller males found in Bubble Plot.
